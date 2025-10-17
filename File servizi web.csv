@@ -3,6 +3,7 @@
 "SACER";"AggiornamentoUnitaDocumentariaSync";"Aggiornamento metadati unita' documentaria"
 "SACER";"AggiuntaAllegatiSync";"Versamento per aggiunta documento sincrono"
 "SACER";"AppInfo";"Informazioni dell'applicazione"
+"SACER";"CancellazioneLogicaMach";"Cancellazione logica unita' documentarie microservizio"
 "SACER";"InvioRichiestaAnnullamentoVersamenti";"Richiedi annullamento versamenti unita' documentaria"
 "SACER";"RecAIPFascicoloSync";"Recupera AIP del fascicolo"
 "SACER";"RecAIPUnitaDocumentariaSync";"Recupera AIP unita' documentaria"

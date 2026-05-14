@@ -2,6 +2,7 @@
 
 "SACER";"/aggiornamentiMetadatiUDDetail";"Dettaglio aggiornamento";"HELP_PAGINA";"Menu principale - Unità documentarie - Ricerca unità documentarie"
 "SACER";"/amministrazione/campoRegolaDetail";"Sottostrutture - Dettaglio campo";"HELP_PAGINA";"Menu principale - Strutture versanti - Gestione strutture"
+"SACER";"/amministrazione/configurationDetail";"Dettaglio parametro configurazione";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione parametri"
 "SACER";"/amministrazione/dettaglioSisMigr";"Dettaglio sistemi di migrazione";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione sistemi di migrazione"
 "SACER";"/amministrazione/estensioneFileDetail";"Dettaglio Estensione File";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione registro dei formati"
 "SACER";"/amministrazione/formatoFileBustaDetail";"Dettaglio Formato File Busta";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione registro dei formati"

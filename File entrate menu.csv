@@ -7,6 +7,7 @@
 "SACER";"Menu.Amministrazione.GestioneCategorieEnti";"Gestione categorie enti";3;10;"Menu.Amministrazione";"Strutture.html?operation=ricercaCategorieEnti&amp;cleanhistory=true"
 "SACER";"Menu.Amministrazione.GestioneCategorieStrutture";"Gestione categorie strutture";3;9;"Menu.Amministrazione";"Strutture.html?operation=ricercaCategorieStrutture&amp;cleanhistory=true"
 "SACER";"Menu.Amministrazione.GestioneCategorieTipoUd";"Gestione categorie tipo unità documentaria";3;8;"Menu.Amministrazione";"Strutture.html?operation=gestioneCategorieTipoUd&amp;cleanhistory=true"
+"SACER";"Menu.Amministrazione.GestioneErrori";"Gestione errori";3;19;"Menu.Amministrazione";"Amministrazione.html?operation=loadGestioneErroriRicerca&amp;cleanhistory=true"
 "SACER";"Menu.Amministrazione.GestioneFormatiFileStandard";"Gestione registro dei formati";3;5;"Menu.Amministrazione";"Formati.html?operation=ricercaFormatoFileStandard&amp;cleanhistory=true"
 "SACER";"Menu.Amministrazione.GestioneJobRicerca";"Gestione job";3;2;"Menu.Amministrazione";"GestioneJob.html?operation=gestioneJobRicercaPage&amp;cleanhistory=true"
 "SACER";"Menu.Amministrazione.GestioneSistemiMigrazione";"Gestione sistemi di migrazione";3;11;"Menu.Amministrazione";"Amministrazione.html?operation=loadListaSistemiMigrazione&amp;cleanhistory=true"

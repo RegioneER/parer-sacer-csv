@@ -8,6 +8,8 @@
 "SACER";"/amministrazione/formatoFileBustaDetail";"Dettaglio Formato File Busta";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione registro dei formati"
 "SACER";"/amministrazione/formatoFileStandardDetail";"Dettaglio Formato";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione registro dei formati"
 "SACER";"/amministrazione/formatoFileStandardRicerca";"Registro dei formati";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione registro dei formati"
+"SACER";"/amministrazione/gestioneErroriDetail";"Dettaglio errore";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione errori"
+"SACER";"/amministrazione/gestioneErroriRicerca";"Gestione errori";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione errori"
 "SACER";"/amministrazione/regolaDetail";"Sottostrutture - Dettaglio regola substruttura";"HELP_PAGINA";"Menu principale - Strutture versanti - Gestione strutture"
 "SACER";"/amministrazione/ricercaSisMigr";"Ricerca sistemi di migrazione";"HELP_PAGINA";"Menu principale - Amministrazione sistema - Gestione sistemi di migrazione"
 "SACER";"/amministrazione/subStrutDetail";"Sottostrutture - Dettaglio sottostruttura";"HELP_PAGINA";"Menu principale - Strutture versanti - Gestione strutture"
